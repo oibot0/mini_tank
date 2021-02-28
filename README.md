@@ -15,17 +15,23 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 语言：C
 目录结构
 ├─Core
+
 │  ├─Inc
+
 │  └─Src
+
 ├─Drivers
+
 │  ├─CMSIS
+
 │  ├─STM32L0xx_HAL_Driver
+
 用STM32CubeIDE打开.project文件即可打开工程
-
-
 
 作品相关图片
 整体 界面展示 客户端界面
+
+
 
 演示视频
 https://oshwhub.com/oibot/zhi-neng-xiao-yu-gang
