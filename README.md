@@ -33,7 +33,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 
 
-演示视频
+硬件演示
 https://oshwhub.com/oibot/zhi-neng-xiao-yu-gang
 
 License
